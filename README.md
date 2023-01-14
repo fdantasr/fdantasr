@@ -7,6 +7,7 @@ Currently studying computer science and working as a software engineer and found
 ##### Personal projects I'm currently working on and maintaining
 * <a href="">TodayTask</a>
 * <a href="https://github.com/mirageexperience">Mirage Experience</a>
+* University Extension Project for the area of agronomy
 
 ##### Where you'll find me
 * <a href="https://twitter.com/fdantasr/">Twitter</a>
