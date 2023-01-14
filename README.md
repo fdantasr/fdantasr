@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Felipe Dantas 👋
 
-<!--
-**fdantasr/fdantasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught developer and designer, computer science student from Brazil, committed to innovating great solutions to current problems. I specialize in digital design and development, but any activity that requires problem solving and creative thinking is where you'll find me.
 
-Here are some ideas to get you started:
+Currently studying computer science and working as a software engineer and founder of startup @ <a href="">My prenatal assistant</a> and creating software for online sellers at <a href="Mirage Experience" ></a> in my spare time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Personal projects I'm currently working on and maintaining
+* <a href="">TodayTask</a>
+* <a href="">Mirage Experience</a>
+
+##### Where you'll find me
+* <a href="https://twitter.com/fdantasr/">Twitter</a>
+* <a href="https://www.linkedin.com/in/fdantasr/">LinkedIn</a>
