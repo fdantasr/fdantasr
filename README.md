@@ -5,9 +5,9 @@ Self-taught developer and designer, computer science student from Brazil, commit
 Currently studying computer science and working as a software engineer and founder of startup @ <a href="">DormIU</a> and creating software for online sellers at <a href="Mirage Experience" ></a> in my spare time.
 
 ```yaml
-frontend: react/nextjs, styled-components/tailwind, redux
-backend: node/fastify, postgres+prisma, redis, docker
-other: ventur(ed|ing) into rust, java, swift, golang, python
+frontend: react/nextjs, styled-components/tailwind
+backend: node, postgres+prisma, docker
+other: java, C, C++, python
 ```
 
 [![Hits](https://hits-app.vercel.app/hits?url=https://github.com/fdantasr&bgLeft=444444&bgRight=575fff&label=visits)](https://hits-app.vercel.app/)
