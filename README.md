@@ -2,12 +2,12 @@
 
 Self-taught developer and designer, computer science student from Brazil, committed to innovating great solutions to current problems. I specialize in digital design and development, but any activity that requires problem solving and creative thinking is where you'll find me.
 
-Currently studying computer science and working as a software engineer and founder of startup @ <a href="">My prenatal assistant</a> and creating software for online sellers at <a href="Mirage Experience" ></a> in my spare time.
+Currently studying computer science and working as a software engineer and founder of startup @ <a href="">DormIU</a> and creating software for online sellers at <a href="Mirage Experience" ></a> in my spare time.
 
-##### Personal projects I'm currently working on and maintaining
-* <a href="https://github.com/fdantasr/today-task">TodayTask</a>
-* University Extension Project for the area of agronomy
+```yaml
+frontend: react/nextjs, styled-components/tailwind, redux
+backend: node/fastify, postgres+prisma, redis, docker
+other: ventur(ed|ing) into rust, java, swift, golang, python
+```
 
-##### Where you'll find me
-* <a href="https://twitter.com/fdantasr/">Twitter</a>
-* <a href="https://www.linkedin.com/in/fdantasr/">LinkedIn</a>
+[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/cnrad&bgLeft=444444&bgRight=575fff&label=visits)](https://hits-app.vercel.app/)
