@@ -6,7 +6,7 @@ Currently studying computer science and working as a software engineer and found
 
 ```yaml
 frontend: react/nextjs, styled-components/tailwind
-backend: node, postgres+prisma, docker
+backend: node, postgres+prisma
 other: java, C, C++, python
 ```
 
