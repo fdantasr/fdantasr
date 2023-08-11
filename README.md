@@ -5,8 +5,8 @@ Self-taught developer & UI Designer, computer science student from Brazil, commi
 Currently studying computer science and working as a software engineer and founder of startup <a href="https://www.dormiu.co">www.dormiu.co</a> and member/scholarship holder of the research group in Computational Numerical Modeling and Simulation at the Federal University of Mato Grosso (UFMT).
 
 ```yaml
-frontend: react/nextjs, styled-components/tailwind
-backend: node, postgres+prisma
-other: java, C, C++, python
+frontend: React/Nextjs, Styled-components/Tailwind, Patterns
+backend: NodeJS, Postgres+Prisma,Express 
+other: Java, C, C++, Python
 ```
 
