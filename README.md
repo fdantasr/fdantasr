@@ -10,4 +10,3 @@ backend: node, postgres+prisma
 other: java, C, C++, python
 ```
 
-[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/fdantasr&bgLeft=444444&bgRight=575fff&label=visits)](https://hits-app.vercel.app/)
