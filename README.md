@@ -7,6 +7,6 @@ Currently studying computer science and working as a software engineer and found
 ```yaml
 frontend: React/Nextjs, Styled-components/Tailwind, Patterns
 backend: NodeJS, Postgres+Prisma,Express 
-other: JavaScript/TypeScript, Java, C, C++, Python
+other: JavaScript/TypeScript, Java, C, C++, Python, Docker
 ```
 
