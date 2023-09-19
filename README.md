@@ -1,4 +1,4 @@
-### Hi, I'm Felipe Dantas 👋
+### Hi, I'm Felipe Dantas 👋🌌
 
 Self-taught developer & UI Designer, computer science student from Brazil, committed to innovating great solutions to current problems. I specialize in digital design and development, but any activity that requires problem solving and creative thinking is where you'll find me.
 
