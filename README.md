@@ -8,7 +8,7 @@ When I have some free time, I usually do some freelance work.
 
 ```yaml
 frontend: React/Nextjs, Styled-components/Tailwind, Patterns
-backend: NodeJS, Postgres+Prisma,Express 
-other: JavaScript/TypeScript, Java, C, C++, Python, Docker
+backend: NodeJS, Postgres+Prisma,Express, Swagger
+other: JavaScript/TypeScript, Java, C, C++, Python, Docker, Azure DevOps
 ```
 
