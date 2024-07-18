@@ -5,10 +5,3 @@ Self-taught developer & UI Designer, computer science student from Brazil, commi
 Currently studying computer science and working as a software engineer, founder and CEO of startup <a href="https://www.dormiuapp.com">www.dormiuapp.com</a>.
 
 When I have free time, I usually do some freelance work or travel to participate in Hackathons. I also foster and contribute to an innovation community of startups and local entrepreneurship.
-
-```yaml
-frontend: React/Nextjs, Styled-components/Tailwind, Patterns
-backend: NodeJS, Postgres+Prisma,Express, Swagger
-other: JavaScript/TypeScript, Java, C, C++, Python, Docker, Azure DevOps
-```
-
